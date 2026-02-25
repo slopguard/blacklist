@@ -1,0 +1,2 @@
+# blacklist
+AI-slop Blacklist
