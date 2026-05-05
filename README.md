@@ -8,5 +8,5 @@ https://github.com/ScrapeGraphAI
 https://github.com/autoscrape-labs
 https://github.com/spider-rs
 https://github.com/Dicklesworthstone
-
+https://github.com/ruvnet
 ```
