@@ -16,3 +16,14 @@ https://github.com/ruvnet
 ```
 https://x.com/muellerberndt
 ```
+
+## Websites
+```
+https://floatingpragma.io/
+```
+
+## Emails
+```
+bernhard@floatingpragma.ai
+```
+
